@@ -23,5 +23,6 @@ namespace MVC_Start
             .Build();
         // adding a comment to push to Kirti's Code
         // This is Avie - adding a comment on Kirti's code. ;) *CHEERS!!!!* 
-  }
+        // //adding I love Dachshunds! from Laura HZ
+    }
 }
